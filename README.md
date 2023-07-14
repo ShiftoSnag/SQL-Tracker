@@ -34,9 +34,8 @@ Run "Node Server.js" in command line
 
 ### Installation
 
-1. Clone the repo
-   sh
-   git clone git@github.com:ShiftoSnag/SQL-Tracker.git
+1. Clone the repo:
+  git@github.com:ShiftoSnag/SQL-Tracker.git
    
 
 
