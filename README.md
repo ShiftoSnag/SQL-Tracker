@@ -1,4 +1,4 @@
-# Ryan Mattson Portfolio
+# SQL TRACKER
 ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 ![badge](https://img.shields.io/badge/LinkedIn-IN%20-blue)
 
@@ -73,6 +73,10 @@ Email: ryan.mattson32@gmail.com
 LinkedIn Link: 
 
 Project Link: git@github.com:ShiftoSnag/SQL-Tracker.git
-Project Video: 
-<!-- MARKDOWN LINKS & IMAGES -->
+Project Video: https://github.com/ShiftoSnag/SQL-Tracker/assets/130313606/1ebaffe1-7a1b-42a6-a5ae-6e6765ab8249
+<!-- MARKDOWN LINKS & IMAGES
+
+
+
+ -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
